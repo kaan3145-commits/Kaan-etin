@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="281.9mm" height="246.05mm" viewBox="-550 -3182 5638 4921">
+<rect x="-550" y="-3182" width="5638" height="4921" fill="#ffffff"/>
+<g id="KAD-ANNO" stroke="#2e7d32" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<line x1="2100" y1="80" x2="2100" y2="-2880" stroke-dasharray="120 60"/>
+<text x="2100" y="-2912" font-size="70" font-family="Helvetica, Arial, sans-serif" text-anchor="middle" fill="#2e7d32" stroke="none">A</text>
+</g>
+<g id="KAD-CUT" stroke="#111111" stroke-width="12.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<polygon points="4548,0 4698,0 4698,-2800 4548,-2800"/>
+<polygon points="4530,0 4548,0 4548,-2800 4530,-2800"/>
+</g>
+<g id="KAD-DIM" stroke="#c0392b" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<line x1="0" y1="20" x2="0" y2="190"/>
+<line x1="80" y1="20" x2="80" y2="190"/>
+<line x1="0" y1="160" x2="80" y2="160"/>
+<line x1="-15" y1="175" x2="15" y2="145"/>
+<line x1="65" y1="175" x2="95" y2="145"/>
+<text x="40" y="144" font-size="50" font-family="Helvetica, Arial, sans-serif" text-anchor="middle" fill="#c0392b" stroke="none">80</text>
+<line x1="80" y1="20" x2="80" y2="190"/>
+<line x1="880" y1="20" x2="880" y2="190"/>
+<line x1="80" y1="160" x2="880" y2="160"/>
+<line x1="65" y1="175" x2="95" y2="145"/>
+<line x1="865" y1="175" x2="895" y2="145"/>
+<text x="480" y="144" font-size="50" font-family="Helvetica, Arial, sans-serif" text-anchor="middle" fill="#c0392b" stroke="none">800</text>
+<line x1="880" y1="20" x2="880" y2="190"/>
+<line x1="890" y1="20" x2="890" y2="190"/>
+<line x1="880" y1="160" x2="890" y2="160"/>
+<line x1="865" y1="175" x2="895" y2="145"/>
+<line x1="875" y1="175" x2="905" y2="145"/>
+<text x="885" y="144" font-size="50" font-family="Helvetica, Arial, sans-serif" text-anchor="middle" fill="#c0392b" stroke="none">10</text>
+<line x1="890" y1="20" x2="890" y2="190"/>
+<line x1="1690" y1="20" x2="1690" y2="190"/>
+<line x1="890" y1="160" x2="1690" y2="160"/>
+<line x1="875" y1="175" x2="905" y2="145"/>
+<line x1="1675" y1="175" x2="1705" y2="145"/>
+<text x="1290" y="144" font-size="50" font-family="Helvetica, Arial, sans-serif" text-anchor="middle" fill="#c0392b" stroke="none">800</text>
+<line x1="1690" y1="20" x2="1690" y2="190"/>
+<line x1="1700" y1="20" x2="1700" y2="190"/>
+<line x1="1690" y1="160" x2="1700" y2="160"/>
+<line x1="1675" y1="175" x2="1705" y2="145"/>
+<line x1="1685" y1="175" x2="1715" y2="145"/>
+<text x="1695" y="144" font-size="50" font-family="Helvetica, Arial, sans-serif" text-anchor="middle" fill="#c0392b" stroke="none">10</text>
+<line x1="1700" y1="20" x2="1700" y2="190"/>
+<line x1="2500" y1="20" x2="2500" y2="190"/>
+<line x1="1700" y1="160" x2="2500" y2="160"/>
+<line x1="1685" y1="175" x2="1715" y2="145"/>
+<line x1="2485" y1="175" x2="2515" y2="145"/>
+<text x="2100" y="144" font-size="50" font-family="Helvetica, Arial, sans-serif" text-anchor="middle" fill="#c0392b" stroke="none">800</text>
+<line x1="2500" y1="20" x2="2500" y2="190"/>
+<line x1="2510" y1="20" x2="2510" y2="190"/>
+<line x1="2500" y1="160" x2="2510" y2="160"/>
+<line x1="2485" y1="175" x2="2515" y2="145"/>
+<line x1="2495" y1="175" x2="2525" y2="145"/>
+<text x="2505" y="144" font-size="50" font-family="Helvetica, Arial, sans-serif" text-anchor="middle" fill="#c0392b" stroke="none">10</text>
+<line x1="2510" y1="20" x2="2510" y2="190"/>
+<line x1="3310" y1="20" x2="3310" y2="190"/>
+<line x1="2510" y1="160" x2="3310" y2="160"/>
+<line x1="2495" y1="175" x2="2525" y2="145"/>
+<line x1="3295" y1="175" x2="3325" y2="145"/>
+<text x="2910" y="144" font-size="50" font-family="Helvetica, Arial, sans-serif" text-anchor="middle" fill="#c0392b" stroke="none">800</text>
+<line x1="3310" y1="20" x2="3310" y2="190"/>
+<line x1="3320" y1="20" x2="3320" y2="190"/>
+<line x1="3310" y1="160" x2="3320" y2="160"/>
+<line x1="3295" y1="175" x2="3325" y2="145"/>
+<line x1="3305" y1="175" x2="3335" y2="145"/>
+<text x="3315" y="144" font-size="50" font-family="Helvetica, Arial, sans-serif" text-anchor="middle" fill="#c0392b" stroke="none">10</text>
+<line x1="3320" y1="20" x2="3320" y2="190"/>
+<line x1="4120" y1="20" x2="4120" y2="190"/>
+<line x1="3320" y1="160" x2="4120" y2="160"/>
+<line x1="3305" y1="175" x2="3335" y2="145"/>
+<line x1="4105" y1="175" x2="4135" y2="145"/>
+<text x="3720" y="144" font-size="50" font-family="Helvetica, Arial, sans-serif" text-anchor="middle" fill="#c0392b" stroke="none">800</text>
+<line x1="4120" y1="20" x2="4120" y2="190"/>
+<line x1="4200" y1="20" x2="4200" y2="190"/>
+<line x1="4120" y1="160" x2="4200" y2="160"/>
+<line x1="4105" y1="175" x2="4135" y2="145"/>
+<line x1="4185" y1="175" x2="4215" y2="145"/>
+<text x="4160" y="144" font-size="50" font-family="Helvetica, Arial, sans-serif" text-anchor="middle" fill="#c0392b" stroke="none">80</text>
+<line x1="0" y1="20" x2="0" y2="350"/>
+<line x1="4200" y1="20" x2="4200" y2="350"/>
+<line x1="0" y1="320" x2="4200" y2="320"/>
+<line x1="-15" y1="335" x2="15" y2="305"/>
+<line x1="4185" y1="335" x2="4215" y2="305"/>
+<text x="2100" y="304" font-size="50" font-family="Helvetica, Arial, sans-serif" text-anchor="middle" fill="#c0392b" stroke="none">4200</text>
+<line x1="-20" y1="0" x2="-350" y2="0"/>
+<line x1="-20" y1="-2800" x2="-350" y2="-2800"/>
+<line x1="-320" y1="0" x2="-320" y2="-2800"/>
+<line x1="-335" y1="15" x2="-305" y2="-15"/>
+<line x1="-335" y1="-2785" x2="-305" y2="-2815"/>
+<text x="-336" y="-1400" font-size="50" font-family="Helvetica, Arial, sans-serif" text-anchor="middle" fill="#c0392b" stroke="none" transform="rotate(-90 -336 -1400)">2800</text>
+<line x1="0" y1="1079" x2="0" y2="1329"/>
+<line x1="4200" y1="1079" x2="4200" y2="1329"/>
+<line x1="0" y1="1299" x2="4200" y2="1299"/>
+<line x1="-15" y1="1314" x2="15" y2="1284"/>
+<line x1="4185" y1="1314" x2="4215" y2="1284"/>
+<text x="2100" y="1283" font-size="50" font-family="Helvetica, Arial, sans-serif" text-anchor="middle" fill="#c0392b" stroke="none">4200</text>
+<line x1="4220" y1="1059" x2="4390" y2="1059"/>
+<line x1="4220" y1="1041" x2="4390" y2="1041"/>
+<line x1="4360" y1="1059" x2="4360" y2="1041"/>
+<line x1="4345" y1="1074" x2="4375" y2="1044"/>
+<line x1="4345" y1="1056" x2="4375" y2="1026"/>
+<text x="4344" y="1050" font-size="50" font-family="Helvetica, Arial, sans-serif" text-anchor="middle" fill="#c0392b" stroke="none" transform="rotate(-90 4344 1050)">18</text>
+<line x1="4220" y1="1041" x2="4390" y2="1041"/>
+<line x1="4220" y1="891" x2="4390" y2="891"/>
+<line x1="4360" y1="1041" x2="4360" y2="891"/>
+<line x1="4345" y1="1056" x2="4375" y2="1026"/>
+<line x1="4345" y1="906" x2="4375" y2="876"/>
+<text x="4344" y="966" font-size="50" font-family="Helvetica, Arial, sans-serif" text-anchor="middle" fill="#c0392b" stroke="none" transform="rotate(-90 4344 966)">150</text>
+<line x1="4530" y1="20" x2="4530" y2="190"/>
+<line x1="4548" y1="20" x2="4548" y2="190"/>
+<line x1="4530" y1="160" x2="4548" y2="160"/>
+<line x1="4515" y1="175" x2="4545" y2="145"/>
+<line x1="4533" y1="175" x2="4563" y2="145"/>
+<text x="4539" y="144" font-size="50" font-family="Helvetica, Arial, sans-serif" text-anchor="middle" fill="#c0392b" stroke="none">18</text>
+<line x1="4548" y1="20" x2="4548" y2="190"/>
+<line x1="4698" y1="20" x2="4698" y2="190"/>
+<line x1="4548" y1="160" x2="4698" y2="160"/>
+<line x1="4533" y1="175" x2="4563" y2="145"/>
+<line x1="4683" y1="175" x2="4713" y2="145"/>
+<text x="4623" y="144" font-size="50" font-family="Helvetica, Arial, sans-serif" text-anchor="middle" fill="#c0392b" stroke="none">150</text>
+<line x1="4718" y1="0" x2="4888" y2="0"/>
+<line x1="4718" y1="-2800" x2="4888" y2="-2800"/>
+<line x1="4858" y1="0" x2="4858" y2="-2800"/>
+<line x1="4843" y1="15" x2="4873" y2="-15"/>
+<line x1="4843" y1="-2785" x2="4873" y2="-2815"/>
+<text x="4842" y="-1400" font-size="50" font-family="Helvetica, Arial, sans-serif" text-anchor="middle" fill="#c0392b" stroke="none" transform="rotate(-90 4842 -1400)">2800</text>
+</g>
+<g id="KAD-PANEL" stroke="#a0662b" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<polygon points="80,0 880,0 880,-2800 80,-2800"/>
+<polygon points="890,0 1690,0 1690,-2800 890,-2800"/>
+<polygon points="1700,0 2500,0 2500,-2800 1700,-2800"/>
+<polygon points="2510,0 3310,0 3310,-2800 2510,-2800"/>
+<polygon points="3320,0 4120,0 4120,-2800 3320,-2800"/>
+<polygon points="80,1059 880,1059 880,1041 80,1041"/>
+<polygon points="890,1059 1690,1059 1690,1041 890,1041"/>
+<polygon points="1700,1059 2500,1059 2500,1041 1700,1041"/>
+<polygon points="2510,1059 3310,1059 3310,1041 2510,1041"/>
+<polygon points="3320,1059 4120,1059 4120,1041 3320,1041"/>
+</g>
+<g id="KAD-TITLE" stroke="#111111" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<text x="0" y="576" font-size="70" font-family="Helvetica, Arial, sans-serif" text-anchor="start" fill="#111111" stroke="none">FRONT ELEVATION  1:20</text>
+<text x="0" y="1539" font-size="70" font-family="Helvetica, Arial, sans-serif" text-anchor="start" fill="#111111" stroke="none">PLAN  1:20</text>
+<text x="4530" y="480" font-size="70" font-family="Helvetica, Arial, sans-serif" text-anchor="start" fill="#111111" stroke="none">SECTION A-A  (X = 2100)  1:20</text>
+</g>
+<g id="KAD-WALL" stroke="#5a5a5a" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<polygon points="0,0 4200,0 4200,-2800 0,-2800"/>
+<polygon points="0,1041 4200,1041 4200,891 0,891"/>
+</g>
+</svg>

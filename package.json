@@ -1,0 +1,36 @@
+{
+  "name": "kad-geometry-engine",
+  "private": true,
+  "version": "0.1.0",
+  "description": "KAD Geometry Engine — Parametric Reconstruction System (KAD Atlas module)",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit -p . && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit -p .",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "example": "vite-node scripts/build-example.ts"
+  },
+  "dependencies": {
+    "immer": "10.1.1",
+    "konva": "9.3.18",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-konva": "18.2.10",
+    "three": "0.170.0",
+    "zustand": "5.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "@types/react": "18.3.12",
+    "@types/react-dom": "18.3.1",
+    "@types/three": "0.170.0",
+    "@vitejs/plugin-react": "4.3.4",
+    "typescript": "5.6.3",
+    "vite": "5.4.11",
+    "vite-node": "2.1.8",
+    "vitest": "2.1.8"
+  }
+}

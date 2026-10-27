@@ -1,0 +1,163 @@
+{
+  "format": "kad.geometry-engine",
+  "schemaVersion": 1,
+  "revision": 0,
+  "units": "mm",
+  "createdAt": "2026-01-01T00:00:00.000Z",
+  "modifiedAt": "2026-01-01T00:00:00.000Z",
+  "project": {
+    "kind": "project",
+    "id": "prj_d055c66ac61",
+    "parentId": null,
+    "name": "Wall paneling — milestone 1",
+    "rev": 0,
+    "materials": [
+      {
+        "id": "mat_plaster",
+        "name": "Painted plaster",
+        "color": "#d9d6cf",
+        "roughness": 0.95,
+        "category": "plaster"
+      },
+      {
+        "id": "mat_oak",
+        "name": "Oak veneer",
+        "color": "#b48a5c",
+        "roughness": 0.7,
+        "category": "wood"
+      },
+      {
+        "id": "mat_walnut",
+        "name": "Walnut veneer",
+        "color": "#6e4b35",
+        "roughness": 0.65,
+        "category": "wood"
+      },
+      {
+        "id": "mat_white_lacquer",
+        "name": "White lacquer",
+        "color": "#efeee9",
+        "roughness": 0.35,
+        "category": "lacquer"
+      },
+      {
+        "id": "mat_anthracite",
+        "name": "Anthracite lacquer",
+        "color": "#3c3f43",
+        "roughness": 0.4,
+        "category": "lacquer"
+      },
+      {
+        "id": "mat_mdf",
+        "name": "Raw MDF",
+        "color": "#a08566",
+        "roughness": 0.9,
+        "category": "wood"
+      },
+      {
+        "id": "mat_travertine",
+        "name": "Travertine",
+        "color": "#cbbba0",
+        "roughness": 0.8,
+        "category": "stone"
+      },
+      {
+        "id": "mat_brass",
+        "name": "Brushed brass",
+        "color": "#b5964f",
+        "roughness": 0.35,
+        "category": "metal"
+      }
+    ],
+    "spaces": [
+      {
+        "kind": "space",
+        "id": "spc_8c79f758002",
+        "parentId": "prj_d055c66ac61",
+        "name": "Space 01",
+        "rev": 0,
+        "facades": [
+          {
+            "kind": "facade",
+            "id": "fac_f1a69f84a83",
+            "parentId": "spc_8c79f758002",
+            "name": "Façade A",
+            "rev": 1,
+            "width": 4200,
+            "height": 2800,
+            "origin": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "wallThickness": 150,
+            "wallMaterial": "mat_plaster",
+            "reference": null,
+            "regions": [
+              {
+                "kind": "region",
+                "source": "panelSystem",
+                "id": "reg_9a8afbd9c17",
+                "parentId": "fac_f1a69f84a83",
+                "name": "Wall panels",
+                "rev": 0,
+                "semantic": "panel",
+                "material": "mat_oak",
+                "visible": true,
+                "extrude": {
+                  "id": "fea_9e28f616498",
+                  "type": "extrude",
+                  "thickness": 18,
+                  "standoff": 0
+                },
+                "pattern": null,
+                "layout": {
+                  "count": 5,
+                  "panelWidth": 800,
+                  "gap": 10,
+                  "distribution": "fixedWidth",
+                  "alignment": "center",
+                  "sideMargin": 0,
+                  "bottomOffset": 0,
+                  "topOffset": 0,
+                  "panelHeight": null
+                },
+                "overrides": {},
+                "provenance": {
+                  "thickness": "measured",
+                  "standoff": "assumed"
+                }
+              }
+            ],
+            "drawings": [
+              {
+                "id": "drw_14cd3218364",
+                "type": "elevation",
+                "name": "Front elevation",
+                "scale": 20
+              },
+              {
+                "id": "drw_61b9d140f15",
+                "type": "plan",
+                "name": "Plan",
+                "scale": 20
+              },
+              {
+                "id": "drw_04ed7074b76",
+                "type": "section",
+                "name": "Section A-A",
+                "scale": 20,
+                "cutX": 2100
+              }
+            ],
+            "provenance": {
+              "width": "measured",
+              "height": "measured",
+              "wallThickness": "assumed"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
